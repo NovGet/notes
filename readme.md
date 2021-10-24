@@ -1,3 +1,10 @@
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://raw.githubusercontent.com/keshavsingh4522/hacktoberfest2021/35fc6060c5ddead5792f29a2437fea160dbe9804/Assets/logo-hacktoberfest-full.f42e3b1.svg" width="50%">
+    </a>
+</p>
+
+
 ### Hello Students! 
 ### Public-notes is open for contribution 😄
 
@@ -14,6 +21,14 @@
 
 #### [NOTE] : When contributing, make sure you add a valid description of the kind of material you are adding, subject, year, and course.
 
+---
+
+### Our Awesome contributors 🤩:
+<a href="https://github.com/NovGet/notes/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=NovGet/notes" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
 
 ### Happy Contributing! 🥳
   
